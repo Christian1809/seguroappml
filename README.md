@@ -1,2 +1,19 @@
 # seguroappml
-app para calcular precio del seguro con machin learning
+app para calcular precio del seguro con machine learning
+
+# paso 1
+
+```
+python -m venv venv
+```
+# paso 2
+
+```
+source venv/Scripts/activate
+```
+
+# paso 3
+
+```
+pip install -r requirements.txt
+```
